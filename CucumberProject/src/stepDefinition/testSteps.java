@@ -21,7 +21,7 @@ public class testSteps {
 		//driver = new FirefoxDriver();
 		driver.get("http://demo.mahara.org/");
 		driver.manage().window().maximize();
-		System.out.println("browser opened12");
+		System.out.println("browser opened123");
 		// Write code here that turns the phrase above into concrete actions
 	    // throw new PendingException();
 	}
